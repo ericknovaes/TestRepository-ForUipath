@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into 'Email'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "9AYP0XZY7E6hk6gg6vpVGw",
+  "Reference": "k3Vsz5f3UEq9UZwXBtAYZA/9AYP0XZY7E6hk6gg6vpVGw",
+  "ParentRef": "k3Vsz5f3UEq9UZwXBtAYZA/B_w3g5Hy50OWLLWQOOKw4A",
+  "Created": "2026-10-02T15:17:25.0947852Z",
+  "Updated": "2026-10-02T15:17:25.0947852Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

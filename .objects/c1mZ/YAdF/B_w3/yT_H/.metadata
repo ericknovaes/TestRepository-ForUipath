@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'User options'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yT_HdFt0ckaxZxCfpAQpLQ",
+  "Reference": "k3Vsz5f3UEq9UZwXBtAYZA/yT_HdFt0ckaxZxCfpAQpLQ",
+  "ParentRef": "k3Vsz5f3UEq9UZwXBtAYZA/B_w3g5Hy50OWLLWQOOKw4A",
+  "Created": "2026-10-02T16:26:16.8907919Z",
+  "Updated": "2026-10-02T16:26:16.8907919Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

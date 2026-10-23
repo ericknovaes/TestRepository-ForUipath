@@ -1,0 +1,6 @@
+{
+  "Name": "ActivityTest",
+  "ProjectType": "Process",
+  "Description": "This is a simple Process template for testing UiPath acitivities.",
+  "MainFile": "Main.xaml"
+}
